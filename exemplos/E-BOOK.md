@@ -7,8 +7,7 @@ Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas 
 ## 🤖 Tecnologias Utilizadas
 
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[Fotor](https://fotor.com)** para criar a arte visual do e-book;
 
 ## 🧐 Processo de Criação
 
@@ -38,6 +37,7 @@ Este e-book contém contos gerados através de IA, bem como suas respectivas ilu
 ## 🧐 Processo de Criação
 
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Fotor" foi usado para gerar imagens exclusivas para o nosso e-book.
+No momento está em processo de criação, mais adiante pretendo acrescentar mais contos e mais recursos como música ou torná-lo um áudio book.
 
 ## 🚀 Resultados
 
